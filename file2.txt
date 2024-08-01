@@ -2,3 +2,6 @@ This is second file.
 I have modified this file.
 Making the changes to create conflict scenario.
 All the above lines are obsalute and need to be deleted.
+=======
+This is different.
+
