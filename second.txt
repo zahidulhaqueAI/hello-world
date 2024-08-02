@@ -1,2 +1,5 @@
 I am second txt file for feature2 branch.
+<<<<<<< HEAD
 Making some changes.
+=======
+>>>>>>> 185ac7d (second.txt commited)
